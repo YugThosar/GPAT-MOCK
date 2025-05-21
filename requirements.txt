@@ -2,11 +2,9 @@ Flask
 pandas
 openpyxl
 gunicorn
-smtplib
 email.mime.text
 email.mime.multiport
 email.header
-imaplib
 email
 threading
 docx

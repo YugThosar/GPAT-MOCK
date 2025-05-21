@@ -2,10 +2,5 @@ Flask
 pandas
 openpyxl
 gunicorn
-email.mime.text
-email.mime.multiport
-email.header
-email
-threading
 docx
-flask_session
+

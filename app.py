@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request, redirect, url_for, session
-from docx import Document
 import random
 import os
 import smtplib

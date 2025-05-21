@@ -2,7 +2,6 @@ Flask
 pandas
 openpyxl
 gunicorn
-random
 os
 smtplib
 email.mime.text
